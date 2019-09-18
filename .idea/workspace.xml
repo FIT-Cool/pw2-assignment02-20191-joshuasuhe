@@ -24,18 +24,14 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="prakpw220191" type="feb32156:DbDataSourceImpl" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ProjectId" id="1QzhxPy1QZw1JsoI8Wp9H6Qweoc" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/workspace/PHPStorm/pw2-assignment02-20191-joshuasuhe" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
@@ -71,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568779577270</updated>
       <workItem from="1568779578398" duration="4380000" />
+      <workItem from="1568784195140" duration="772000" />
     </task>
     <servers />
   </component>

@@ -8,7 +8,7 @@ include_once 'db_func/pasien_func.php';
     <link rel="stylesheet" href="datatables.min.css">
     <script type="text/javascript" src="datatables.min.js"></script>
 </head>
-<body marginwidth=10%>
+<body marginwidth=7.5%>
 <nav>
     <h1>
         <a href="?menu=pasien"> Data Pasien</a>
